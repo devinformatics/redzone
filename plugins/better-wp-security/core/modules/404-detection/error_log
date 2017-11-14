@@ -1,0 +1,15 @@
+[05-Sep-2017 12:13:18 UTC] PHP Fatal error:  Class 'ITSEC_Modules' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/404-detection/class-itsec-four-oh-four.php on line 9
+[05-Sep-2017 12:13:19 UTC] PHP Fatal error:  Class 'ITSEC_Module_Settings_Page' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/404-detection/settings-page.php on line 3
+[05-Sep-2017 12:13:19 UTC] PHP Fatal error:  Class 'ITSEC_WP_List_Table' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/404-detection/class-itsec-four-oh-four-log.php on line 10
+[05-Sep-2017 12:13:20 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/404-detection/setup.php on line 12
+[05-Sep-2017 12:13:21 UTC] PHP Fatal error:  Class 'ITSEC_Settings' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/404-detection/settings.php on line 3
+[05-Sep-2017 12:13:21 UTC] PHP Fatal error:  Class 'ITSEC_Modules' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/404-detection/init.php on line 3
+[06-Sep-2017 08:52:20 UTC] PHP Fatal error:  Class 'ITSEC_Validator' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/404-detection/validator.php on line 3
+[06-Sep-2017 08:52:29 UTC] PHP Fatal error:  Class 'ITSEC_Validator' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/404-detection/validator.php on line 3
+[09-Oct-2017 11:19:06 UTC] PHP Fatal error:  Class 'ITSEC_Modules' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/404-detection/class-itsec-four-oh-four.php on line 9
+[09-Oct-2017 11:19:06 UTC] PHP Fatal error:  Class 'ITSEC_Settings' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/404-detection/settings.php on line 3
+[09-Oct-2017 11:19:06 UTC] PHP Fatal error:  Class 'ITSEC_Modules' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/404-detection/init.php on line 3
+[09-Oct-2017 11:19:07 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/404-detection/setup.php on line 12
+[09-Oct-2017 11:19:07 UTC] PHP Fatal error:  Class 'ITSEC_Validator' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/404-detection/validator.php on line 3
+[09-Oct-2017 11:19:07 UTC] PHP Fatal error:  Class 'ITSEC_Module_Settings_Page' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/404-detection/settings-page.php on line 3
+[09-Oct-2017 11:19:07 UTC] PHP Fatal error:  Class 'ITSEC_WP_List_Table' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/404-detection/class-itsec-four-oh-four-log.php on line 10

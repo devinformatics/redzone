@@ -1,0 +1,5 @@
+[05-Sep-2017 10:14:41 UTC] PHP Fatal error:  Class 'MPSUM_List_Table' not found in /home/joecap1/public_html/wp-content/plugins/stops-core-theme-and-plugin-updates/includes/MPSUM_Logs_List_Table.php on line 10
+[05-Sep-2017 10:14:41 UTC] PHP Fatal error:  Class 'MPSUM_List_Table' not found in /home/joecap1/public_html/wp-content/plugins/stops-core-theme-and-plugin-updates/includes/MPSUM_Plugins_List_Table.php on line 10
+[05-Sep-2017 10:14:46 UTC] PHP Fatal error:  Class 'MPSUM_List_Table' not found in /home/joecap1/public_html/wp-content/plugins/stops-core-theme-and-plugin-updates/includes/MPSUM_Themes_List_Table.php on line 10
+[05-Sep-2017 10:14:49 UTC] PHP Fatal error:  Class 'MPSUM_List_Table' not found in /home/joecap1/public_html/wp-content/plugins/stops-core-theme-and-plugin-updates/includes/MPSUM_Plugins_List_Table.php on line 10
+[05-Sep-2017 10:14:49 UTC] PHP Fatal error:  Class 'MPSUM_List_Table' not found in /home/joecap1/public_html/wp-content/plugins/stops-core-theme-and-plugin-updates/includes/MPSUM_Themes_List_Table.php on line 10

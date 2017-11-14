@@ -1,0 +1,1 @@
+[05-Sep-2017 11:18:36 UTC] PHP Fatal error:  Interface 'No3x\WPML\ORM\ModelInterface' not found in /home/joecap1/public_html/wp-content/plugins/wp-mail-logging/lib/vendor/brandonwamboldt/wp-orm/src/BaseModel.php on line 11

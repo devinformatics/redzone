@@ -1,0 +1,4 @@
+[06-Sep-2017 09:29:48 UTC] PHP Warning:  Creating default object from empty value in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/ini/dbcluster-config-sample.php on line 12
+[06-Sep-2017 09:29:48 UTC] PHP Fatal error:  Call to undefined method stdClass::add_database() in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/ini/dbcluster-config-sample.php on line 133
+[09-Oct-2017 11:20:04 UTC] PHP Warning:  Creating default object from empty value in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/ini/dbcluster-config-sample.php on line 12
+[09-Oct-2017 11:20:04 UTC] PHP Fatal error:  Call to undefined method stdClass::add_database() in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/ini/dbcluster-config-sample.php on line 133

@@ -1,0 +1,1 @@
+[05-Sep-2017 10:14:02 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/inc/wpseo-functions-deprecated.php on line 155

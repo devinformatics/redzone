@@ -1,0 +1,10 @@
+[06-Sep-2017 09:04:19 UTC] PHP Fatal error:  Class 'W3TCG_Google_Auth_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Auth/AppIdentity.php on line 29
+[06-Sep-2017 09:04:19 UTC] PHP Fatal error:  Class 'W3TCG_Google_Auth_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Auth/Simple.php on line 26
+[06-Sep-2017 09:04:24 UTC] PHP Fatal error:  Class 'W3TCG_Google_Auth_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Auth/OAuth2.php on line 26
+[06-Sep-2017 09:04:25 UTC] PHP Fatal error:  Class 'W3TCG_Google_Exception' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Auth/Exception.php on line 19
+[09-Oct-2017 11:20:04 UTC] PHP Fatal error:  Class 'W3TCG_Google_Auth_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Auth/AppIdentity.php on line 29
+[09-Oct-2017 11:20:04 UTC] PHP Fatal error:  Class 'W3TCG_Google_Exception' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Auth/Exception.php on line 19
+[09-Oct-2017 11:20:24 UTC] PHP Fatal error:  Class 'W3TCG_Google_Auth_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Auth/Simple.php on line 26
+[09-Oct-2017 11:20:24 UTC] PHP Fatal error:  Class 'W3TCG_Google_Auth_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Auth/OAuth2.php on line 26
+[09-Oct-2017 11:20:26 UTC] PHP Fatal error:  Class 'W3TCG_Google_Auth_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Auth/Simple.php on line 26
+[09-Oct-2017 11:20:26 UTC] PHP Fatal error:  Class 'W3TCG_Google_Auth_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Auth/OAuth2.php on line 26

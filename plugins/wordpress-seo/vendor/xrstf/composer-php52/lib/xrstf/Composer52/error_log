@@ -1,0 +1,2 @@
+[06-Sep-2017 08:53:52 UTC] PHP Fatal error:  Class 'Composer\Autoload\AutoloadGenerator' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/vendor/xrstf/composer-php52/lib/xrstf/Composer52/AutoloadGenerator.php on line 30
+[09-Oct-2017 11:20:22 UTC] PHP Fatal error:  Class 'Composer\Autoload\AutoloadGenerator' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/vendor/xrstf/composer-php52/lib/xrstf/Composer52/AutoloadGenerator.php on line 30

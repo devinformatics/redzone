@@ -1,0 +1,6 @@
+[05-Sep-2017 10:15:52 UTC] PHP Fatal error:  Class 'ITSEC_Module_Settings_Page' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/salts/settings-page.php on line 3
+[05-Sep-2017 10:15:54 UTC] PHP Fatal error:  Class 'ITSEC_Modules' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/salts/init.php on line 3
+[05-Sep-2017 10:15:55 UTC] PHP Fatal error:  Class 'ITSEC_Validator' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/salts/validator.php on line 3
+[05-Sep-2017 10:15:56 UTC] PHP Fatal error:  Class 'ITSEC_Settings' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/salts/settings.php on line 3
+[05-Sep-2017 12:13:26 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/salts/setup.php on line 9
+[05-Sep-2017 12:13:28 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/salts/setup.php on line 9

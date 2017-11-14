@@ -1,0 +1,11 @@
+[05-Sep-2017 12:13:19 UTC] PHP Fatal error:  Class 'ITSEC_Module_Settings_Page' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/global/settings-page.php on line 3
+[05-Sep-2017 12:13:19 UTC] PHP Fatal error:  Class 'ITSEC_Modules' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/global/init.php on line 3
+[05-Sep-2017 12:13:20 UTC] PHP Fatal error:  Class 'ITSEC_Settings' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/global/settings.php on line 3
+[05-Sep-2017 12:13:20 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/global/setup.php on line 9
+[05-Sep-2017 12:13:20 UTC] PHP Fatal error:  Class 'ITSEC_Validator' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/global/validator.php on line 3
+[05-Sep-2017 12:13:29 UTC] PHP Fatal error:  Class 'ITSEC_Module_Settings_Page' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/global/settings-page.php on line 3
+[05-Sep-2017 12:13:29 UTC] PHP Fatal error:  Class 'ITSEC_Modules' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/global/init.php on line 3
+[05-Sep-2017 12:13:29 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/global/setup.php on line 9
+[05-Sep-2017 12:13:30 UTC] PHP Fatal error:  Class 'ITSEC_Validator' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/global/validator.php on line 3
+[05-Sep-2017 12:13:30 UTC] PHP Fatal error:  Class 'ITSEC_Settings' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/global/settings.php on line 3
+[06-Sep-2017 08:53:57 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/global/active.php on line 6

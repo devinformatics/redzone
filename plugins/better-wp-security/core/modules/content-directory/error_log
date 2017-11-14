@@ -1,0 +1,2 @@
+[05-Sep-2017 10:15:51 UTC] PHP Fatal error:  Class 'ITSEC_Module_Settings_Page' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/content-directory/settings-page.php on line 3
+[05-Sep-2017 10:15:53 UTC] PHP Fatal error:  Class 'ITSEC_Modules' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/content-directory/init.php on line 3

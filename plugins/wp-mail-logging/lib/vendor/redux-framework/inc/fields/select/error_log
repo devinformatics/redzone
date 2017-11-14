@@ -1,0 +1,1 @@
+[06-Sep-2017 09:19:11 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/joecap1/public_html/wp-content/plugins/wp-mail-logging/lib/vendor/redux-framework/inc/fields/select/elusive-icons.php on line 312

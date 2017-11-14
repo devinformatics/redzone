@@ -1,0 +1,2 @@
+[06-Sep-2017 09:04:18 UTC] PHP Fatal error:  Class 'SQL_Translations' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Db/mssql.php on line 30
+[09-Oct-2017 11:20:04 UTC] PHP Fatal error:  Class 'SQL_Translations' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Db/mssql.php on line 30

@@ -1,0 +1,11 @@
+[05-Sep-2017 10:14:08 UTC] PHP Fatal error:  Class 'WPSEO_Import_External' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/class-import-wpseo.php on line 11
+[05-Sep-2017 10:14:41 UTC] PHP Fatal error:  Class 'WPSEO_Metabox' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/class-social-admin.php on line 9
+[05-Sep-2017 10:14:50 UTC] PHP Fatal error:  Class 'WPSEO_Bulk_List_Table' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/class-bulk-description-editor-list-table.php on line 10
+[05-Sep-2017 10:15:03 UTC] PHP Fatal error:  Class 'WPSEO_Bulk_List_Table' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/class-bulk-title-editor-list-table.php on line 10
+[05-Sep-2017 10:15:06 UTC] PHP Fatal error:  Class 'WPSEO_Metabox' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/class-social-admin.php on line 9
+[05-Sep-2017 10:15:18 UTC] PHP Fatal error:  Class 'WPSEO_Import_External' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/class-import-woothemes-seo.php on line 11
+[05-Sep-2017 10:15:18 UTC] PHP Fatal error:  Class 'WP_List_Table' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/class-bulk-editor-list-table.php on line 10
+[05-Sep-2017 10:15:26 UTC] PHP Fatal error:  Class 'Yoast_Plugin_Conflict' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/class-plugin-conflict.php on line 10
+[05-Sep-2017 10:15:44 UTC] PHP Fatal error:  Class 'Yoast_Plugin_Conflict' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/class-plugin-conflict.php on line 10
+[09-Oct-2017 11:41:37 UTC] PHP Fatal error:  Class 'WPSEO_Import_External' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/class-import-wpseo.php on line 11
+[09-Oct-2017 11:42:08 UTC] PHP Fatal error:  Class 'WPSEO_Metabox' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/class-social-admin.php on line 9

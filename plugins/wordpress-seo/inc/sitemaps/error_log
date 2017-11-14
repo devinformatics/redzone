@@ -1,0 +1,5 @@
+[05-Sep-2017 10:14:03 UTC] PHP Fatal error:  Interface 'WPSEO_Sitemap_Cache_Data_Interface' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/inc/sitemaps/class-sitemap-cache-data.php on line 9
+[05-Sep-2017 10:14:03 UTC] PHP Fatal error:  Interface 'WPSEO_Sitemap_Provider' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/inc/sitemaps/class-taxonomy-sitemap-provider.php on line 9
+[05-Sep-2017 10:14:44 UTC] PHP Fatal error:  Interface 'WPSEO_Sitemap_Cache_Data_Interface' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/inc/sitemaps/class-sitemap-cache-data.php on line 9
+[05-Sep-2017 10:16:30 UTC] PHP Fatal error:  Interface 'WPSEO_Sitemap_Provider' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/inc/sitemaps/class-author-sitemap-provider.php on line 9
+[05-Sep-2017 10:16:31 UTC] PHP Fatal error:  Interface 'WPSEO_Sitemap_Provider' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/inc/sitemaps/class-post-type-sitemap-provider.php on line 9

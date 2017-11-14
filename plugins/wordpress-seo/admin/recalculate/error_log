@@ -1,0 +1,2 @@
+[05-Sep-2017 10:16:31 UTC] PHP Fatal error:  Class 'WPSEO_Recalculate' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/recalculate/class-recalculate-posts.php on line 9
+[05-Sep-2017 10:16:31 UTC] PHP Fatal error:  Class 'WPSEO_Recalculate' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/recalculate/class-recalculate-terms.php on line 9

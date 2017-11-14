@@ -1,0 +1,6 @@
+[06-Sep-2017 08:53:45 UTC] PHP Fatal error:  Class 'ITSEC_Modules' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/backup/class-itsec-backup.php on line 37
+[06-Sep-2017 08:53:45 UTC] PHP Fatal error:  Class 'ITSEC_Modules' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/backup/init.php on line 3
+[06-Sep-2017 08:53:56 UTC] PHP Fatal error:  Class 'ITSEC_Validator' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/backup/validator.php on line 3
+[06-Sep-2017 08:53:56 UTC] PHP Fatal error:  Class 'ITSEC_Settings' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/backup/settings.php on line 3
+[06-Sep-2017 08:53:56 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/backup/setup.php on line 9
+[06-Sep-2017 08:53:56 UTC] PHP Fatal error:  Class 'ITSEC_Module_Settings_Page' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/backup/settings-page.php on line 3

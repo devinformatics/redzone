@@ -1,0 +1,4 @@
+[06-Sep-2017 08:52:22 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/sport-core-plugin/inc/functions/functions_register_cpt_pb_template.php on line 16
+[06-Sep-2017 08:53:52 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/sport-core-plugin/inc/functions/functions_register_cpt_people.php on line 18
+[09-Oct-2017 11:20:21 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/sport-core-plugin/inc/functions/functions_register_cpt_people.php on line 18
+[09-Oct-2017 11:21:09 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/sport-core-plugin/inc/functions/functions_register_cpt_pb_template.php on line 16

@@ -1,0 +1,4 @@
+[05-Sep-2017 10:14:52 UTC] PHP Fatal error:  Interface 'WPSEO_Metabox_Formatter_Interface' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/formatter/class-term-metabox-formatter.php on line 9
+[05-Sep-2017 10:15:06 UTC] PHP Fatal error:  Interface 'WPSEO_Metabox_Formatter_Interface' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/formatter/class-post-metabox-formatter.php on line 9
+[09-Oct-2017 11:42:08 UTC] PHP Fatal error:  Interface 'WPSEO_Metabox_Formatter_Interface' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/formatter/class-term-metabox-formatter.php on line 9
+[09-Oct-2017 11:42:08 UTC] PHP Fatal error:  Interface 'WPSEO_Metabox_Formatter_Interface' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/formatter/class-post-metabox-formatter.php on line 9

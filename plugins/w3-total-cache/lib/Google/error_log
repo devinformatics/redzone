@@ -1,0 +1,4 @@
+[06-Sep-2017 09:05:08 UTC] PHP Fatal error:  Class 'W3TCG_Google_Model' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Collection.php on line 8
+[06-Sep-2017 09:05:17 UTC] PHP Fatal error:  Class 'W3TCG_Google_Model' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Collection.php on line 8
+[09-Oct-2017 11:20:24 UTC] PHP Fatal error:  Class 'W3TCG_Google_Model' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Collection.php on line 8
+[09-Oct-2017 11:20:26 UTC] PHP Fatal error:  Class 'W3TCG_Google_Model' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Collection.php on line 8

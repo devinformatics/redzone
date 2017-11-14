@@ -1,0 +1,10 @@
+[06-Sep-2017 08:52:25 UTC] PHP Fatal error:  Call to undefined function is_multisite() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/admin-pages/init.php on line 10
+[06-Sep-2017 08:52:25 UTC] PHP Fatal error:  Call to undefined function wp_redirect() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/admin-pages/page-go-pro.php on line 3
+[06-Sep-2017 08:52:25 UTC] PHP Fatal error:  Call to undefined function wp_redirect() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/admin-pages/page-security-check.php on line 3
+[06-Sep-2017 08:52:25 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/admin-pages/page-settings.php on line 14
+[06-Sep-2017 08:52:25 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/admin-pages/page-logs.php on line 16
+[06-Sep-2017 08:52:28 UTC] PHP Fatal error:  Call to undefined function wp_redirect() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/admin-pages/page-security-check.php on line 3
+[06-Sep-2017 08:52:28 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/admin-pages/page-settings.php on line 14
+[06-Sep-2017 08:52:29 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/admin-pages/page-logs.php on line 16
+[06-Sep-2017 08:52:29 UTC] PHP Fatal error:  Call to undefined function wp_redirect() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/admin-pages/page-go-pro.php on line 3
+[06-Sep-2017 08:52:29 UTC] PHP Fatal error:  Call to undefined function is_multisite() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/admin-pages/init.php on line 10

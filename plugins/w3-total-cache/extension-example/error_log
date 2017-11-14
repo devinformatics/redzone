@@ -1,0 +1,3 @@
+[06-Sep-2017 09:04:23 UTC] PHP Fatal error:  Call to undefined function W3TCExample\w3tc_config() in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/extension-example/Extension_Example.php on line 19
+[09-Oct-2017 11:20:30 UTC] PHP Fatal error:  Call to undefined function W3TCExample\w3tc_config() in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/extension-example/Extension_Example.php on line 19
+[09-Oct-2017 11:20:31 UTC] PHP Fatal error:  Call to undefined function W3TCExample\w3tc_config() in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/extension-example/Extension_Example.php on line 19

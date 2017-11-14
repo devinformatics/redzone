@@ -1,0 +1,33 @@
+[12-Feb-2017 04:52:58 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/submit.php on line 8
+[12-Feb-2017 04:53:00 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/text.php on line 12
+[12-Feb-2017 04:53:01 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/textarea.php on line 8
+[12-Feb-2017 04:53:02 UTC] PHP Fatal error:  Call to undefined function wpcf7_add_shortcode() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/response.php on line 8
+[12-Feb-2017 04:53:04 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/date.php on line 9
+[12-Feb-2017 04:53:05 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/flamingo.php on line 7
+[12-Feb-2017 04:53:07 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/acceptance.php on line 8
+[12-Feb-2017 04:53:09 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/file.php on line 8
+[12-Feb-2017 04:53:12 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/really-simple-captcha.php on line 8
+[05-Sep-2017 10:15:16 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/textarea.php on line 8
+[05-Sep-2017 10:15:17 UTC] PHP Fatal error:  Call to undefined function wpcf7_add_shortcode() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/response.php on line 8
+[05-Sep-2017 10:15:19 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/akismet.php on line 7
+[05-Sep-2017 12:13:20 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/checkbox.php on line 8
+[05-Sep-2017 12:13:21 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/date.php on line 9
+[05-Sep-2017 12:13:21 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/listo.php on line 7
+[05-Sep-2017 12:13:21 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/acceptance.php on line 8
+[05-Sep-2017 12:13:22 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/file.php on line 8
+[05-Sep-2017 12:13:22 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/count.php on line 8
+[05-Sep-2017 12:13:23 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/flamingo.php on line 7
+[06-Sep-2017 08:52:20 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/select.php on line 8
+[06-Sep-2017 08:52:20 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/submit.php on line 8
+[06-Sep-2017 08:52:20 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/quiz.php on line 8
+[06-Sep-2017 08:52:20 UTC] PHP Fatal error:  Class 'WPCF7_Service' not found in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/recaptcha.php on line 3
+[06-Sep-2017 08:52:20 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/really-simple-captcha.php on line 8
+[06-Sep-2017 08:52:20 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/number.php on line 10
+[06-Sep-2017 08:52:21 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/text.php on line 12
+[06-Sep-2017 08:52:31 UTC] PHP Fatal error:  Class 'WPCF7_Service' not found in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/recaptcha.php on line 3
+[06-Sep-2017 08:52:31 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/quiz.php on line 8
+[06-Sep-2017 08:52:31 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/number.php on line 10
+[06-Sep-2017 08:52:31 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/really-simple-captcha.php on line 8
+[06-Sep-2017 08:52:31 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/select.php on line 8
+[06-Sep-2017 08:52:31 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/text.php on line 12
+[06-Sep-2017 08:52:31 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/contact-form-7/modules/submit.php on line 8

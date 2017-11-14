@@ -1,0 +1,5 @@
+[06-Sep-2017 09:30:00 UTC] PHP Fatal error:  Call to undefined function esc_html_e() in /home/joecap1/public_html/wp-content/plugins/wp-mail-logging/lib/vendor/redux-framework/inc/welcome/views/changelog.php on line 2
+[06-Sep-2017 09:30:00 UTC] PHP Fatal error:  Call to undefined function __() in /home/joecap1/public_html/wp-content/plugins/wp-mail-logging/lib/vendor/redux-framework/inc/welcome/views/about.php on line 2
+[06-Sep-2017 09:30:00 UTC] PHP Fatal error:  Call to undefined function esc_html_e() in /home/joecap1/public_html/wp-content/plugins/wp-mail-logging/lib/vendor/redux-framework/inc/welcome/views/credits.php on line 2
+[06-Sep-2017 09:30:00 UTC] PHP Fatal error:  Call to undefined function esc_html() in /home/joecap1/public_html/wp-content/plugins/wp-mail-logging/lib/vendor/redux-framework/inc/welcome/views/extensions.php on line 64
+[06-Sep-2017 09:30:05 UTC] PHP Fatal error:  Call to undefined function esc_html_e() in /home/joecap1/public_html/wp-content/plugins/wp-mail-logging/lib/vendor/redux-framework/inc/welcome/views/support.php on line 2

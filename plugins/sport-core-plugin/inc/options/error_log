@@ -1,0 +1,5 @@
+[06-Sep-2017 08:53:52 UTC] PHP Fatal error:  Call to undefined function _e() in /home/joecap1/public_html/wp-content/plugins/sport-core-plugin/inc/options/options_pagebuilder.php on line 5
+[06-Sep-2017 08:53:52 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/sport-core-plugin/inc/options/options_pagebuilder_control.php on line 13
+[09-Oct-2017 11:19:59 UTC] PHP Fatal error:  Call to undefined function _e() in /home/joecap1/public_html/wp-content/plugins/sport-core-plugin/inc/options/options_pagebuilder.php on line 5
+[09-Oct-2017 11:20:01 UTC] PHP Fatal error:  Call to undefined function _e() in /home/joecap1/public_html/wp-content/plugins/sport-core-plugin/inc/options/options_pagebuilder.php on line 5
+[09-Oct-2017 11:20:21 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/sport-core-plugin/inc/options/options_pagebuilder_control.php on line 13

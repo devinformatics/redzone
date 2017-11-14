@@ -1,0 +1,5 @@
+[05-Sep-2017 12:13:26 UTC] PHP Fatal error:  Class 'ITSEC_Module_Settings_Page' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/pro/settings-page.php on line 7
+[05-Sep-2017 12:13:26 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/pro/setup.php on line 9
+[05-Sep-2017 12:13:28 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/pro/setup.php on line 9
+[05-Sep-2017 12:13:28 UTC] PHP Fatal error:  Class 'ITSEC_Module_Settings_Page' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/pro/settings-page.php on line 7
+[06-Sep-2017 09:30:24 UTC] PHP Fatal error:  Class 'ITSEC_Modules' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/pro/init.php on line 3

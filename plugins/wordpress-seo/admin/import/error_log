@@ -1,0 +1,5 @@
+[05-Sep-2017 10:15:53 UTC] PHP Fatal error:  Class 'WPSEO_Import_Hooks' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/import/class-import-aioseo-hooks.php on line 9
+[05-Sep-2017 10:15:54 UTC] PHP Fatal error:  Class 'WPSEO_Import_Hooks' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/import/class-import-wpseo-hooks.php on line 9
+[05-Sep-2017 10:15:56 UTC] PHP Fatal error:  Class 'WPSEO_Import_Hooks' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/import/class-import-wpseo-hooks.php on line 9
+[09-Oct-2017 11:42:40 UTC] PHP Fatal error:  Class 'WPSEO_Import_Hooks' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/import/class-import-aioseo-hooks.php on line 9
+[09-Oct-2017 11:43:09 UTC] PHP Fatal error:  Class 'WPSEO_Import_Hooks' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/import/class-import-wpseo-hooks.php on line 9

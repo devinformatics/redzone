@@ -1,0 +1,1 @@
+[05-Sep-2017 11:18:36 UTC] PHP Fatal error:  Class 'No3x\WPML\Pimple\Container' not found in /home/joecap1/public_html/wp-content/plugins/wp-mail-logging/WPML_DI_Container.php on line 11

@@ -1,0 +1,6 @@
+[06-Sep-2017 09:17:09 UTC] PHP Fatal error:  Using $this when not in object context in /home/joecap1/public_html/wp-content/plugins/wp-mail-logging/lib/vendor/redux-framework/templates/panel/footer.tpl.php on line 15
+[06-Sep-2017 09:17:09 UTC] PHP Fatal error:  Using $this when not in object context in /home/joecap1/public_html/wp-content/plugins/wp-mail-logging/lib/vendor/redux-framework/templates/panel/container.tpl.php on line 12
+[06-Sep-2017 09:17:11 UTC] PHP Fatal error:  Using $this when not in object context in /home/joecap1/public_html/wp-content/plugins/wp-mail-logging/lib/vendor/redux-framework/templates/panel/menu_container.tpl.php on line 16
+[06-Sep-2017 09:17:13 UTC] PHP Fatal error:  Using $this when not in object context in /home/joecap1/public_html/wp-content/plugins/wp-mail-logging/lib/vendor/redux-framework/templates/panel/content.tpl.php on line 12
+[06-Sep-2017 09:17:13 UTC] PHP Fatal error:  Call to undefined function esc_attr() in /home/joecap1/public_html/wp-content/plugins/wp-mail-logging/lib/vendor/redux-framework/templates/panel/header_stickybar.tpl.php on line 14
+[06-Sep-2017 09:17:13 UTC] PHP Fatal error:  Call to undefined function __() in /home/joecap1/public_html/wp-content/plugins/wp-mail-logging/lib/vendor/redux-framework/templates/panel/header.tpl.php on line 11

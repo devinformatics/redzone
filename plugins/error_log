@@ -1,0 +1,1 @@
+[05-Sep-2017 10:15:20 UTC] PHP Fatal error:  Call to undefined function remove_action() in /home/joecap1/public_html/wp-content/plugins/cpaddons-site-software.php on line 29

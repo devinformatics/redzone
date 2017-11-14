@@ -1,0 +1,1 @@
+[05-Sep-2017 11:18:36 UTC] PHP Fatal error:  Call to undefined function screen_icon() in /home/joecap1/public_html/wp-content/plugins/wp-mail-logging/lib/vendor/brandonwamboldt/wp-orm/views/list-table.php on line 2

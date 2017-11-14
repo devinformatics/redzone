@@ -1,0 +1,4 @@
+[05-Sep-2017 12:13:24 UTC] PHP Fatal error:  Class 'Requisite\Rule\Psr4' not found in /home/joecap1/public_html/wp-content/plugins/search-and-replace/inc/requisite/src/Requisite/Rule/NamespaceDirectoryMapper.php on line 13
+[05-Sep-2017 12:13:24 UTC] PHP Fatal error:  Interface 'Requisite\Rule\AutoLoadRuleInterface' not found in /home/joecap1/public_html/wp-content/plugins/search-and-replace/inc/requisite/src/Requisite/Rule/Psr4.php on line 16
+[09-Oct-2017 11:21:00 UTC] PHP Fatal error:  Class 'Requisite\Rule\Psr4' not found in /home/joecap1/public_html/wp-content/plugins/search-and-replace/inc/requisite/src/Requisite/Rule/NamespaceDirectoryMapper.php on line 13
+[09-Oct-2017 11:21:00 UTC] PHP Fatal error:  Interface 'Requisite\Rule\AutoLoadRuleInterface' not found in /home/joecap1/public_html/wp-content/plugins/search-and-replace/inc/requisite/src/Requisite/Rule/Psr4.php on line 16

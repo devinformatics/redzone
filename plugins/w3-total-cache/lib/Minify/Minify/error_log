@@ -1,0 +1,2 @@
+[06-Sep-2017 09:29:48 UTC] PHP Fatal error:  The script "class.JavaScriptPacker.php" is required. Please see: http://code.google.com/p/minify/source/browse/trunk/min/lib/Minify/Packer.php in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Minify/Minify/Packer.php on line 22
+[09-Oct-2017 11:19:49 UTC] PHP Fatal error:  The script "class.JavaScriptPacker.php" is required. Please see: http://code.google.com/p/minify/source/browse/trunk/min/lib/Minify/Packer.php in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Minify/Minify/Packer.php on line 22

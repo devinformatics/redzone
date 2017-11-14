@@ -1,0 +1,2 @@
+[05-Sep-2017 10:14:41 UTC] PHP Fatal error:  Call to undefined function load_plugin_textdomain() in /home/joecap1/public_html/wp-content/plugins/stops-core-theme-and-plugin-updates/main.php on line 88
+[05-Sep-2017 10:15:06 UTC] PHP Fatal error:  Call to undefined function load_plugin_textdomain() in /home/joecap1/public_html/wp-content/plugins/stops-core-theme-and-plugin-updates/main.php on line 88

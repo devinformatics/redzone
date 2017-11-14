@@ -1,0 +1,9 @@
+[05-Sep-2017 10:16:30 UTC] PHP Fatal error:  Class 'WPSEO_Option' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/inc/options/class-wpseo-option-social.php on line 9
+[05-Sep-2017 10:16:30 UTC] PHP Fatal error:  Class 'WPSEO_Option' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/inc/options/class-wpseo-option-titles.php on line 9
+[05-Sep-2017 10:16:30 UTC] PHP Fatal error:  Class 'WPSEO_Option' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/inc/options/class-wpseo-option-xml.php on line 9
+[05-Sep-2017 10:16:30 UTC] PHP Fatal error:  Class 'WPSEO_Option' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/inc/options/class-wpseo-option-wpseo.php on line 9
+[05-Sep-2017 10:16:30 UTC] PHP Fatal error:  Class 'WPSEO_Option' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/inc/options/class-wpseo-option-rss.php on line 9
+[05-Sep-2017 10:16:30 UTC] PHP Fatal error:  Class 'WPSEO_Option' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/inc/options/class-wpseo-option-internallinks.php on line 9
+[05-Sep-2017 10:16:30 UTC] PHP Fatal error:  Class 'WPSEO_Option' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/inc/options/class-wpseo-taxonomy-meta.php on line 9
+[05-Sep-2017 10:16:30 UTC] PHP Fatal error:  Class 'WPSEO_Option' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/inc/options/class-wpseo-option-permalinks.php on line 10
+[05-Sep-2017 10:16:30 UTC] PHP Fatal error:  Class 'WPSEO_Option' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/inc/options/class-wpseo-option-ms.php on line 12

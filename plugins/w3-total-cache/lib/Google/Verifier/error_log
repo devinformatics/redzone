@@ -1,0 +1,1 @@
+[09-Oct-2017 11:20:49 UTC] PHP Fatal error:  Class 'W3TCG_Google_Verifier_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Verifier/Pem.php on line 24

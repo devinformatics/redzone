@@ -1,0 +1,2 @@
+[06-Sep-2017 09:30:00 UTC] PHP Fatal error:  Interface 'themecheck' not found in /home/joecap1/public_html/wp-content/plugins/wp-mail-logging/lib/vendor/redux-framework/inc/themecheck/checks/full_package.php on line 3
+[06-Sep-2017 09:43:18 UTC] PHP Fatal error:  Interface 'themecheck' not found in /home/joecap1/public_html/wp-content/plugins/wp-mail-logging/lib/vendor/redux-framework/inc/themecheck/checks/embedded.php on line 3

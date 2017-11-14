@@ -1,0 +1,55 @@
+/************************************
+BACKEND.CSS (BACKEND)									 
+
+UTILITY CLASSES
+WIDGET SORTABLE
+WIDGET: OPENING HOURS
+*************************************/
+
+/************************************
+UTILITY CLASSES
+*************************************/
+
+	.float_right {
+		float: right;	
+	}
+
+	.hidden {
+		display: : none;	
+	}
+	
+
+/************************************
+WIDGET SORTABLE
+*************************************/
+
+	.widget_sortable li {
+		background-color: #e6e6e6;
+		border: 1px solid #c2c2c2;
+		padding: 5px;
+		cursor: move;
+	}	
+
+	.widget_sortable_placeholder {
+		background-color: #c9c9c9;
+		border: 1px dotted #c2c2c2;
+		height: 30px;
+	}
+
+/************************************
+WIDGET: OPENING HOURS
+*************************************/
+
+.opening_when {
+	float: left;
+	width: 48%;
+	margin-right: 1%;
+}
+
+.opening_hours {
+	overflow: hidden;
+}
+
+.opening_hours_ul input {
+	width: 100%;
+}

@@ -1,0 +1,5 @@
+[05-Sep-2017 10:16:31 UTC] PHP Fatal error:  Class 'WPSEO_Taxonomy_Fields' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/taxonomy/class-taxonomy-social-fields.php on line 9
+[05-Sep-2017 10:16:31 UTC] PHP Fatal error:  Class 'WPSEO_Taxonomy_Fields' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/taxonomy/class-taxonomy-settings-fields.php on line 9
+[09-Oct-2017 11:19:19 UTC] PHP Fatal error:  Class 'WPSEO_Taxonomy_Fields' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/taxonomy/class-taxonomy-social-fields.php on line 9
+[09-Oct-2017 11:19:19 UTC] PHP Fatal error:  Class 'WPSEO_Taxonomy_Fields' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/taxonomy/class-taxonomy-settings-fields.php on line 9
+[09-Oct-2017 11:43:14 UTC] PHP Fatal error:  Class 'WPSEO_Taxonomy_Fields' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/taxonomy/class-taxonomy-content-fields.php on line 9

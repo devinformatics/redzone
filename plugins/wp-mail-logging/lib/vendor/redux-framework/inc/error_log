@@ -1,0 +1,2 @@
+[06-Sep-2017 09:42:26 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/wp-mail-logging/lib/vendor/redux-framework/inc/class.p.php on line 7
+[06-Sep-2017 09:42:27 UTC] PHP Fatal error:  Call to undefined function has_action() in /home/joecap1/public_html/wp-content/plugins/wp-mail-logging/lib/vendor/redux-framework/inc/class.thirdparty.fixes.php on line 4

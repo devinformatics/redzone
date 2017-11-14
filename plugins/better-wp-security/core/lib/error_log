@@ -1,0 +1,1 @@
+[06-Sep-2017 09:30:24 UTC] PHP Fatal error:  Call to undefined function did_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/lib/class-itsec-lib-user-activity.php on line 9

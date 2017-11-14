@@ -1,0 +1,6 @@
+[06-Sep-2017 08:52:25 UTC] PHP Fatal error:  Class 'ITSEC_Module_Settings_Page' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/ipcheck/settings-page.php on line 3
+[06-Sep-2017 08:52:26 UTC] PHP Fatal error:  Class 'ITSEC_Modules' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/ipcheck/init.php on line 3
+[06-Sep-2017 08:52:26 UTC] PHP Fatal error:  Class 'ITSEC_Validator' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/ipcheck/validator.php on line 3
+[06-Sep-2017 08:52:26 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/ipcheck/setup.php on line 12
+[06-Sep-2017 08:52:26 UTC] PHP Fatal error:  Call to undefined function get_site_option() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/ipcheck/class-itsec-ipcheck.php on line 20
+[06-Sep-2017 08:52:26 UTC] PHP Fatal error:  Class 'ITSEC_Settings' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/ipcheck/settings.php on line 3

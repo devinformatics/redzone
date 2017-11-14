@@ -1,0 +1,14 @@
+[05-Sep-2017 10:15:51 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/ssl/setup.php on line 9
+[05-Sep-2017 10:15:51 UTC] PHP Fatal error:  Class 'ITSEC_Validator' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/ssl/validator.php on line 3
+[05-Sep-2017 10:15:51 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/ssl/active.php on line 3
+[05-Sep-2017 10:15:56 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/ssl/class-itsec-ssl.php on line 42
+[05-Sep-2017 12:13:26 UTC] PHP Fatal error:  Class 'ITSEC_Modules' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/ssl/init.php on line 3
+[05-Sep-2017 12:13:26 UTC] PHP Fatal error:  Class 'ITSEC_Module_Settings_Page' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/ssl/settings-page.php on line 3
+[05-Sep-2017 12:13:26 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/ssl/class-itsec-ssl.php on line 42
+[05-Sep-2017 12:13:26 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/ssl/class-itsec-ssl.php on line 42
+[05-Sep-2017 12:13:28 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/ssl/class-itsec-ssl.php on line 42
+[05-Sep-2017 12:13:28 UTC] PHP Fatal error:  Class 'ITSEC_Modules' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/ssl/init.php on line 3
+[05-Sep-2017 12:13:29 UTC] PHP Fatal error:  Class 'ITSEC_Module_Settings_Page' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/ssl/settings-page.php on line 3
+[05-Sep-2017 12:13:29 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/ssl/class-itsec-ssl.php on line 42
+[06-Sep-2017 08:52:20 UTC] PHP Fatal error:  Class 'ITSEC_Settings' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/ssl/settings.php on line 3
+[06-Sep-2017 08:52:30 UTC] PHP Fatal error:  Class 'ITSEC_Settings' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/ssl/settings.php on line 3

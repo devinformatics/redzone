@@ -1,0 +1,190 @@
+[06-Sep-2017 09:04:19 UTC] PHP Fatal error:  Class 'WP_CLI_Command' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cli.php on line 10
+[06-Sep-2017 09:04:20 UTC] PHP Fatal error:  Class 'W3TC\Dispatcher' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Root_Loader.php on line 19
+[06-Sep-2017 09:04:20 UTC] PHP Fatal error:  Call to undefined function esc_attr() in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Support_Page_View_DoneContent.php on line 4
+[06-Sep-2017 09:04:20 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extension_NewRelic_Page.php on line 6
+[06-Sep-2017 09:04:22 UTC] PHP Fatal error:  Class 'W3TC\Dispatcher' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extension_NewRelic_Plugin.php on line 21
+[06-Sep-2017 09:04:22 UTC] PHP Warning:  require_once(ABSPATHwp-includes/wp-db.php): failed to open stream: No such file or directory in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/DbCache_WpdbBase.php on line 4
+[06-Sep-2017 09:04:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-includes/wp-db.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/DbCache_WpdbBase.php on line 4
+[06-Sep-2017 09:04:22 UTC] PHP Fatal error:  Class 'W3TC\Cache_File' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_File_Generic.php on line 13
+[06-Sep-2017 09:04:22 UTC] PHP Warning:  include(W3TC_INC_DIR/options/common/header.php): failed to open stream: No such file or directory in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Support_Page_View_PageContent.php on line 1
+[06-Sep-2017 09:04:22 UTC] PHP Warning:  include(W3TC_INC_DIR/options/common/header.php): failed to open stream: No such file or directory in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Support_Page_View_PageContent.php on line 1
+[06-Sep-2017 09:04:22 UTC] PHP Warning:  include(): Failed opening 'W3TC_INC_DIR/options/common/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Support_Page_View_PageContent.php on line 1
+[06-Sep-2017 09:04:22 UTC] PHP Fatal error:  Class 'W3TC\DbCache_WpdbBase' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/DbCache_Wpdb.php on line 8
+[06-Sep-2017 09:04:23 UTC] PHP Fatal error:  Class 'W3TC\Cache_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_Redis.php on line 7
+[06-Sep-2017 09:04:23 UTC] PHP Fatal error:  Class 'W3TC\Cache_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_Memcache.php on line 7
+[06-Sep-2017 09:04:23 UTC] PHP Fatal error:  Class 'W3TC\Cache_File_Cleaner' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_File_Cleaner_Generic.php on line 7
+[06-Sep-2017 09:04:23 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror.php on line 7
+[06-Sep-2017 09:04:23 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Azure.php on line 7
+[06-Sep-2017 09:04:23 UTC] PHP Fatal error:  Class 'W3TC\Cache_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_Memcached.php on line 7
+[06-Sep-2017 09:04:23 UTC] PHP Fatal error:  Class 'W3TC\Cache_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_Wincache.php on line 7
+[06-Sep-2017 09:04:23 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_GoogleDrive.php on line 7
+[06-Sep-2017 09:04:23 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Ftp.php on line 13
+[06-Sep-2017 09:04:23 UTC] PHP Fatal error:  Class 'W3TC\Cache_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_Xcache.php on line 7
+[06-Sep-2017 09:04:24 UTC] PHP Fatal error:  Class 'W3TC\Dispatcher' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extension_Genesis_Plugin.php on line 14
+[06-Sep-2017 09:04:24 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/DbCache_Page.php on line 6
+[06-Sep-2017 09:05:05 UTC] PHP Warning:  require_once(W3TC_LIB_DIR/S3.php): failed to open stream: No such file or directory in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_S3.php on line 9
+[06-Sep-2017 09:05:05 UTC] PHP Fatal error:  require_once(): Failed opening required 'W3TC_LIB_DIR/S3.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_S3.php on line 9
+[06-Sep-2017 09:05:05 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_RackSpaceCdn.php on line 7
+[06-Sep-2017 09:05:05 UTC] PHP Warning:  require_once(W3TC_LIB_DIR/S3.php): failed to open stream: No such file or directory in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_S3_Compatible.php on line 9
+[06-Sep-2017 09:05:05 UTC] PHP Fatal error:  require_once(): Failed opening required 'W3TC_LIB_DIR/S3.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_S3_Compatible.php on line 9
+[06-Sep-2017 09:05:05 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_S3' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_S3_Cf.php on line 14
+[06-Sep-2017 09:05:05 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_Cotendo.php on line 15
+[06-Sep-2017 09:05:05 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_RackSpaceCloudFiles.php on line 7
+[06-Sep-2017 09:05:06 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_Netdna.php on line 13
+[06-Sep-2017 09:05:06 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_Akamai.php on line 11
+[06-Sep-2017 09:05:06 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror_Netdna' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_MaxCdn.php on line 7
+[06-Sep-2017 09:05:06 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_Edgecast.php on line 18
+[06-Sep-2017 09:05:06 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_S3_Cf' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_S3_Cf_Custom.php on line 8
+[06-Sep-2017 09:05:06 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_S3_Cf' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_S3_Cf_S3.php on line 8
+[06-Sep-2017 09:05:06 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror_Edgecast' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_Att.php on line 9
+[06-Sep-2017 09:05:06 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_Highwinds.php on line 7
+[06-Sep-2017 09:05:07 UTC] PHP Fatal error:  Class 'W3TC\Dispatcher' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extension_Wpml_Plugin.php on line 8
+[06-Sep-2017 09:05:08 UTC] PHP Fatal error:  Class 'W3TC\Dispatcher' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extension_WordPressSeo_Plugin.php on line 8
+[06-Sep-2017 09:05:08 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extensions_Page.php on line 17
+[06-Sep-2017 09:05:09 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cdn_Page.php on line 6
+[06-Sep-2017 09:05:10 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Mobile_Page_UserAgentGroups.php on line 6
+[06-Sep-2017 09:05:10 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Minify_Page.php on line 6
+[06-Sep-2017 09:05:10 UTC] PHP Fatal error:  Class 'W3TC\Mobile_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Mobile_Referrer.php on line 12
+[06-Sep-2017 09:05:10 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Mobile_Page_ReferrerGroups.php on line 6
+[06-Sep-2017 09:05:10 UTC] PHP Fatal error:  Class 'W3TC\Mobile_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Mobile_UserAgent.php on line 11
+[06-Sep-2017 09:05:11 UTC] PHP Fatal error:  Class 'W3TC\DbCache_WpdbInjection' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Enterprise_Dbcache_WpdbInjection_Cluster.php on line 8
+[06-Sep-2017 09:05:11 UTC] PHP Fatal error:  Call to undefined function W3TC\add_filter() in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extension_Amp_Plugin.php on line 10
+[06-Sep-2017 09:05:11 UTC] PHP Fatal error:  Class 'W3TC\Enterprise_SnsBase' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Enterprise_CacheFlush_MakeSnsEvent.php on line 7
+[06-Sep-2017 09:05:11 UTC] PHP Warning:  require_once(W3TC_LIB_DIR/SNS/services/MessageValidator/Message.php): failed to open stream: No such file or directory in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Enterprise_SnsServer.php on line 8
+[06-Sep-2017 09:05:11 UTC] PHP Fatal error:  require_once(): Failed opening required 'W3TC_LIB_DIR/SNS/services/MessageValidator/Message.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Enterprise_SnsServer.php on line 8
+[06-Sep-2017 09:05:11 UTC] PHP Fatal error:  Class 'W3TC\DbCache_WpdbInjection' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/DbCache_WpdbInjection_QueryCaching.php on line 7
+[06-Sep-2017 09:05:11 UTC] PHP Fatal error:  Class 'W3TC\Dispatcher' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extension_CloudFlare_Plugin.php on line 20
+[06-Sep-2017 09:05:13 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cdn_Page.php on line 6
+[06-Sep-2017 09:05:13 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_S3' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_S3_Cf.php on line 14
+[06-Sep-2017 09:05:13 UTC] PHP Warning:  require_once(W3TC_LIB_DIR/S3.php): failed to open stream: No such file or directory in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_S3.php on line 9
+[06-Sep-2017 09:05:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'W3TC_LIB_DIR/S3.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_S3.php on line 9
+[06-Sep-2017 09:05:13 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_S3_Cf' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_S3_Cf_Custom.php on line 8
+[06-Sep-2017 09:05:13 UTC] PHP Warning:  require_once(W3TC_LIB_DIR/S3.php): failed to open stream: No such file or directory in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_S3_Compatible.php on line 9
+[06-Sep-2017 09:05:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'W3TC_LIB_DIR/S3.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_S3_Compatible.php on line 9
+[06-Sep-2017 09:05:13 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_S3_Cf' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_S3_Cf_S3.php on line 8
+[06-Sep-2017 09:05:13 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_Highwinds.php on line 7
+[06-Sep-2017 09:05:13 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_RackSpaceCdn.php on line 7
+[06-Sep-2017 09:05:13 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_Netdna.php on line 13
+[06-Sep-2017 09:05:13 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror_Netdna' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_MaxCdn.php on line 7
+[06-Sep-2017 09:05:13 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_Edgecast.php on line 18
+[06-Sep-2017 09:05:13 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_Akamai.php on line 11
+[06-Sep-2017 09:05:13 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror_Edgecast' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_Att.php on line 9
+[06-Sep-2017 09:05:14 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_RackSpaceCloudFiles.php on line 7
+[06-Sep-2017 09:05:14 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_Cotendo.php on line 15
+[06-Sep-2017 09:05:16 UTC] PHP Fatal error:  Class 'W3TC\Mobile_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Mobile_Referrer.php on line 12
+[06-Sep-2017 09:05:16 UTC] PHP Fatal error:  Call to undefined function W3TC\add_filter() in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extension_Amp_Plugin.php on line 10
+[06-Sep-2017 09:05:16 UTC] PHP Fatal error:  Class 'W3TC\Enterprise_SnsBase' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Enterprise_CacheFlush_MakeSnsEvent.php on line 7
+[06-Sep-2017 09:05:16 UTC] PHP Warning:  require_once(W3TC_LIB_DIR/SNS/services/MessageValidator/Message.php): failed to open stream: No such file or directory in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Enterprise_SnsServer.php on line 8
+[06-Sep-2017 09:05:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'W3TC_LIB_DIR/SNS/services/MessageValidator/Message.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Enterprise_SnsServer.php on line 8
+[06-Sep-2017 09:05:16 UTC] PHP Fatal error:  Class 'W3TC\DbCache_WpdbInjection' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Enterprise_Dbcache_WpdbInjection_Cluster.php on line 8
+[06-Sep-2017 09:05:16 UTC] PHP Fatal error:  Class 'W3TC\Dispatcher' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extension_WordPressSeo_Plugin.php on line 8
+[06-Sep-2017 09:05:17 UTC] PHP Fatal error:  Class 'W3TC\Dispatcher' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extension_Wpml_Plugin.php on line 8
+[06-Sep-2017 09:05:17 UTC] PHP Fatal error:  Class 'W3TC\DbCache_WpdbInjection' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/DbCache_WpdbInjection_QueryCaching.php on line 7
+[06-Sep-2017 09:05:17 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extensions_Page.php on line 17
+[06-Sep-2017 09:05:17 UTC] PHP Fatal error:  Class 'W3TC\Dispatcher' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extension_CloudFlare_Plugin.php on line 20
+[06-Sep-2017 09:05:17 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Mobile_Page_ReferrerGroups.php on line 6
+[06-Sep-2017 09:05:18 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Mobile_Page_UserAgentGroups.php on line 6
+[06-Sep-2017 09:05:18 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Minify_Page.php on line 6
+[06-Sep-2017 09:05:18 UTC] PHP Fatal error:  Class 'W3TC\Mobile_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Mobile_UserAgent.php on line 11
+[06-Sep-2017 09:05:19 UTC] PHP Fatal error:  Class 'W3TC\Util_WpFile_FilesystemOperationException' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Util_WpFile_FilesystemChmodException.php on line 4
+[06-Sep-2017 09:05:21 UTC] PHP Fatal error:  Class 'W3TC\Util_WpFile_FilesystemOperationException' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Util_WpFile_FilesystemCopyException.php on line 4
+[06-Sep-2017 09:05:22 UTC] PHP Fatal error:  Class 'W3TC\Util_WpFile_FilesystemOperationException' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Util_WpFile_FilesystemModifyException.php on line 4
+[06-Sep-2017 09:05:22 UTC] PHP Fatal error:  Class 'W3TC\Util_WpFile_FilesystemOperationException' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Util_WpFile_FilesystemMkdirException.php on line 4
+[06-Sep-2017 09:29:43 UTC] PHP Fatal error:  Class 'W3TC\Cache_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_Apc.php on line 7
+[06-Sep-2017 09:29:43 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/BrowserCache_Page.php on line 6
+[06-Sep-2017 09:29:43 UTC] PHP Fatal error:  Class 'W3TC\Cache_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_Apcu.php on line 7
+[06-Sep-2017 09:29:47 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Generic_Page_Install.php on line 6
+[06-Sep-2017 09:29:47 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Generic_Page_Faq.php on line 6
+[06-Sep-2017 09:29:47 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Generic_Page_About.php on line 6
+[06-Sep-2017 09:29:47 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/ObjectCache_Page.php on line 6
+[06-Sep-2017 09:29:47 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Generic_Page_General.php on line 6
+[06-Sep-2017 09:29:47 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Generic_Page_Dashboard.php on line 6
+[06-Sep-2017 09:29:48 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/PgCache_Page.php on line 6
+[06-Sep-2017 09:29:49 UTC] PHP Fatal error:  Class 'W3TC\PgCache_ContentGrabber' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/PgCache_Flush.php on line 7
+[06-Sep-2017 09:30:19 UTC] PHP Fatal error:  Class 'W3TC\Cache_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_Eaccelerator.php on line 7
+[06-Sep-2017 09:30:19 UTC] PHP Fatal error:  Class 'W3TC\Cache_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_File.php on line 7
+[09-Oct-2017 11:19:25 UTC] PHP Fatal error:  Class 'W3TC\Mobile_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Mobile_Referrer.php on line 12
+[09-Oct-2017 11:19:25 UTC] PHP Fatal error:  Class 'W3TC\Mobile_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Mobile_UserAgent.php on line 11
+[09-Oct-2017 11:19:25 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Mobile_Page_UserAgentGroups.php on line 6
+[09-Oct-2017 11:19:26 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Minify_Page.php on line 6
+[09-Oct-2017 11:19:26 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Mobile_Page_ReferrerGroups.php on line 6
+[09-Oct-2017 11:19:30 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cdn_Page.php on line 6
+[09-Oct-2017 11:19:50 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/ObjectCache_Page.php on line 6
+[09-Oct-2017 11:19:51 UTC] PHP Fatal error:  Class 'W3TC\PgCache_ContentGrabber' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/PgCache_Flush.php on line 7
+[09-Oct-2017 11:19:53 UTC] PHP Fatal error:  Class 'WP_CLI_Command' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cli.php on line 10
+[09-Oct-2017 11:19:56 UTC] PHP Fatal error:  Class 'W3TC\Dispatcher' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Root_Loader.php on line 19
+[09-Oct-2017 11:19:56 UTC] PHP Warning:  include(W3TC_INC_DIR/options/common/header.php): failed to open stream: No such file or directory in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Support_Page_View_PageContent.php on line 1
+[09-Oct-2017 11:19:56 UTC] PHP Warning:  include(W3TC_INC_DIR/options/common/header.php): failed to open stream: No such file or directory in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Support_Page_View_PageContent.php on line 1
+[09-Oct-2017 11:19:56 UTC] PHP Warning:  include(): Failed opening 'W3TC_INC_DIR/options/common/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Support_Page_View_PageContent.php on line 1
+[09-Oct-2017 11:19:56 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/PgCache_Page.php on line 6
+[09-Oct-2017 11:19:57 UTC] PHP Fatal error:  Call to undefined function esc_attr() in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Support_Page_View_DoneContent.php on line 4
+[09-Oct-2017 11:20:00 UTC] PHP Warning:  require_once(W3TC_LIB_DIR/SNS/services/MessageValidator/Message.php): failed to open stream: No such file or directory in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Enterprise_SnsServer.php on line 8
+[09-Oct-2017 11:20:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'W3TC_LIB_DIR/SNS/services/MessageValidator/Message.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Enterprise_SnsServer.php on line 8
+[09-Oct-2017 11:20:00 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/DbCache_Page.php on line 6
+[09-Oct-2017 11:20:00 UTC] PHP Fatal error:  Call to undefined function W3TC\add_filter() in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extension_Amp_Plugin.php on line 10
+[09-Oct-2017 11:20:01 UTC] PHP Fatal error:  Class 'W3TC\DbCache_WpdbBase' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/DbCache_Wpdb.php on line 8
+[09-Oct-2017 11:20:01 UTC] PHP Fatal error:  Class 'W3TC\Enterprise_SnsBase' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Enterprise_CacheFlush_MakeSnsEvent.php on line 7
+[09-Oct-2017 11:20:01 UTC] PHP Warning:  require_once(ABSPATHwp-includes/wp-db.php): failed to open stream: No such file or directory in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/DbCache_WpdbBase.php on line 4
+[09-Oct-2017 11:20:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-includes/wp-db.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/DbCache_WpdbBase.php on line 4
+[09-Oct-2017 11:20:01 UTC] PHP Fatal error:  Class 'W3TC\DbCache_WpdbInjection' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/DbCache_WpdbInjection_QueryCaching.php on line 7
+[09-Oct-2017 11:20:01 UTC] PHP Fatal error:  Class 'W3TC\DbCache_WpdbInjection' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Enterprise_Dbcache_WpdbInjection_Cluster.php on line 8
+[09-Oct-2017 11:20:21 UTC] PHP Fatal error:  Class 'W3TC\Dispatcher' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extension_CloudFlare_Plugin.php on line 20
+[09-Oct-2017 11:20:27 UTC] PHP Fatal error:  Class 'W3TC\Dispatcher' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extension_FragmentCache_Plugin.php on line 11
+[09-Oct-2017 11:20:27 UTC] PHP Fatal error:  Call to undefined function W3TC\add_action() in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extension_FeedBurner_Plugin.php on line 8
+[09-Oct-2017 11:20:29 UTC] PHP Fatal error:  Class 'W3TC\Util_WpFile_FilesystemOperationException' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Util_WpFile_FilesystemMkdirException.php on line 4
+[09-Oct-2017 11:20:29 UTC] PHP Fatal error:  Class 'W3TC\Util_WpFile_FilesystemOperationException' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Util_WpFile_FilesystemRmException.php on line 4
+[09-Oct-2017 11:20:29 UTC] PHP Fatal error:  Class 'W3TC\Util_WpFile_FilesystemOperationException' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Util_WpFile_FilesystemChmodException.php on line 4
+[09-Oct-2017 11:20:30 UTC] PHP Fatal error:  Class 'W3TC\Util_WpFile_FilesystemOperationException' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Util_WpFile_FilesystemModifyException.php on line 4
+[09-Oct-2017 11:20:30 UTC] PHP Fatal error:  Class 'W3TC\Util_WpFile_FilesystemOperationException' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Util_WpFile_FilesystemRmdirException.php on line 4
+[09-Oct-2017 11:20:30 UTC] PHP Fatal error:  Class 'W3TC\Util_WpFile_FilesystemOperationException' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Util_WpFile_FilesystemCopyException.php on line 4
+[09-Oct-2017 11:20:30 UTC] PHP Fatal error:  Class 'W3TC\Util_WpFile_FilesystemOperationException' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Util_WpFile_FilesystemWriteException.php on line 4
+[09-Oct-2017 11:20:31 UTC] PHP Fatal error:  Class 'W3TC\Util_WpFile_FilesystemOperationException' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Util_WpFile_FilesystemMkdirException.php on line 4
+[09-Oct-2017 11:20:31 UTC] PHP Fatal error:  Class 'W3TC\Util_WpFile_FilesystemOperationException' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Util_WpFile_FilesystemChmodException.php on line 4
+[09-Oct-2017 11:20:31 UTC] PHP Fatal error:  Class 'W3TC\Util_WpFile_FilesystemOperationException' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Util_WpFile_FilesystemWriteException.php on line 4
+[09-Oct-2017 11:20:31 UTC] PHP Fatal error:  Class 'W3TC\Util_WpFile_FilesystemOperationException' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Util_WpFile_FilesystemModifyException.php on line 4
+[09-Oct-2017 11:20:31 UTC] PHP Fatal error:  Class 'W3TC\Util_WpFile_FilesystemOperationException' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Util_WpFile_FilesystemRmException.php on line 4
+[09-Oct-2017 11:20:31 UTC] PHP Fatal error:  Class 'W3TC\Util_WpFile_FilesystemOperationException' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Util_WpFile_FilesystemCopyException.php on line 4
+[09-Oct-2017 11:20:31 UTC] PHP Fatal error:  Class 'W3TC\Util_WpFile_FilesystemOperationException' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Util_WpFile_FilesystemRmdirException.php on line 4
+[09-Oct-2017 11:20:32 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extension_NewRelic_Page.php on line 6
+[09-Oct-2017 11:20:32 UTC] PHP Fatal error:  Class 'W3TC\Dispatcher' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extension_Genesis_Plugin.php on line 14
+[09-Oct-2017 11:20:32 UTC] PHP Fatal error:  Class 'W3TC\Dispatcher' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extension_NewRelic_Plugin.php on line 21
+[09-Oct-2017 11:20:36 UTC] PHP Fatal error:  Class 'W3TC\Cache_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_Apc.php on line 7
+[09-Oct-2017 11:20:36 UTC] PHP Fatal error:  Class 'W3TC\Cache_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_File.php on line 7
+[09-Oct-2017 11:20:36 UTC] PHP Fatal error:  Class 'W3TC\Cache_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_Eaccelerator.php on line 7
+[09-Oct-2017 11:20:36 UTC] PHP Fatal error:  Class 'W3TC\Cache_File_Cleaner' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_File_Cleaner_Generic.php on line 7
+[09-Oct-2017 11:20:36 UTC] PHP Fatal error:  Class 'W3TC\Cache_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_Apcu.php on line 7
+[09-Oct-2017 11:20:36 UTC] PHP Fatal error:  Class 'W3TC\Cache_File' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_File_Generic.php on line 13
+[09-Oct-2017 11:20:37 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/BrowserCache_Page.php on line 6
+[09-Oct-2017 11:20:51 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extensions_Page.php on line 17
+[09-Oct-2017 11:20:51 UTC] PHP Fatal error:  Class 'W3TC\Dispatcher' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extension_Wpml_Plugin.php on line 8
+[09-Oct-2017 11:20:51 UTC] PHP Fatal error:  Class 'W3TC\Dispatcher' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Extension_WordPressSeo_Plugin.php on line 8
+[09-Oct-2017 11:20:53 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror_Edgecast' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_Att.php on line 9
+[09-Oct-2017 11:20:53 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_Cotendo.php on line 15
+[09-Oct-2017 11:20:53 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror.php on line 7
+[09-Oct-2017 11:20:53 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_Akamai.php on line 11
+[09-Oct-2017 11:20:53 UTC] PHP Fatal error:  Class 'W3TC\Cache_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_Memcached.php on line 7
+[09-Oct-2017 11:20:53 UTC] PHP Fatal error:  Class 'W3TC\Cache_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_Memcache.php on line 7
+[09-Oct-2017 11:20:53 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_GoogleDrive.php on line 7
+[09-Oct-2017 11:20:53 UTC] PHP Fatal error:  Class 'W3TC\Cache_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_Redis.php on line 7
+[09-Oct-2017 11:20:53 UTC] PHP Fatal error:  Class 'W3TC\Cache_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_Xcache.php on line 7
+[09-Oct-2017 11:20:53 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Ftp.php on line 13
+[09-Oct-2017 11:20:53 UTC] PHP Fatal error:  Class 'W3TC\Cache_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Cache_Wincache.php on line 7
+[09-Oct-2017 11:20:53 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Azure.php on line 7
+[09-Oct-2017 11:20:57 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_Edgecast.php on line 18
+[09-Oct-2017 11:20:58 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_S3_Cf' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_S3_Cf_S3.php on line 8
+[09-Oct-2017 11:20:58 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_Netdna.php on line 13
+[09-Oct-2017 11:20:58 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_S3_Cf' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_S3_Cf_Custom.php on line 8
+[09-Oct-2017 11:20:58 UTC] PHP Warning:  require_once(W3TC_LIB_DIR/S3.php): failed to open stream: No such file or directory in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_S3_Compatible.php on line 9
+[09-Oct-2017 11:20:58 UTC] PHP Fatal error:  require_once(): Failed opening required 'W3TC_LIB_DIR/S3.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_S3_Compatible.php on line 9
+[09-Oct-2017 11:20:58 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_S3' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_S3_Cf.php on line 14
+[09-Oct-2017 11:20:59 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Base' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_RackSpaceCloudFiles.php on line 7
+[09-Oct-2017 11:20:59 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_Highwinds.php on line 7
+[09-Oct-2017 11:20:59 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_RackSpaceCdn.php on line 7
+[09-Oct-2017 11:20:59 UTC] PHP Fatal error:  Class 'W3TC\CdnEngine_Mirror_Netdna' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_Mirror_MaxCdn.php on line 7
+[09-Oct-2017 11:20:59 UTC] PHP Warning:  require_once(W3TC_LIB_DIR/S3.php): failed to open stream: No such file or directory in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_S3.php on line 9
+[09-Oct-2017 11:20:59 UTC] PHP Fatal error:  require_once(): Failed opening required 'W3TC_LIB_DIR/S3.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/CdnEngine_S3.php on line 9
+[09-Oct-2017 11:20:59 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Generic_Page_Dashboard.php on line 6
+[09-Oct-2017 11:20:59 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Generic_Page_About.php on line 6
+[09-Oct-2017 11:21:00 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Generic_Page_General.php on line 6
+[09-Oct-2017 11:21:00 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Generic_Page_Faq.php on line 6
+[09-Oct-2017 11:21:00 UTC] PHP Fatal error:  Class 'W3TC\Base_Page_Settings' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/Generic_Page_Install.php on line 6

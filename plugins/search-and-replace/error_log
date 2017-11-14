@@ -1,0 +1,2 @@
+[06-Sep-2017 08:52:21 UTC] PHP Fatal error:  Call to undefined function Inpsyde\SearchReplace\register_activation_hook() in /home/joecap1/public_html/wp-content/plugins/search-and-replace/inspyde-search-replace.php on line 22
+[09-Oct-2017 11:21:09 UTC] PHP Fatal error:  Call to undefined function Inpsyde\SearchReplace\register_activation_hook() in /home/joecap1/public_html/wp-content/plugins/search-and-replace/inspyde-search-replace.php on line 22

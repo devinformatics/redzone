@@ -1,0 +1,4 @@
+[06-Sep-2017 09:05:15 UTC] PHP Fatal error:  Class 'ResponseCore' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/SNS/utilities/response.class.php on line 29
+[06-Sep-2017 09:05:16 UTC] PHP Fatal error:  Class 'RequestCore' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/SNS/utilities/request.class.php on line 30
+[09-Oct-2017 11:41:09 UTC] PHP Fatal error:  Class 'ResponseCore' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/SNS/utilities/response.class.php on line 29
+[09-Oct-2017 11:41:09 UTC] PHP Fatal error:  Class 'RequestCore' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/SNS/utilities/request.class.php on line 30

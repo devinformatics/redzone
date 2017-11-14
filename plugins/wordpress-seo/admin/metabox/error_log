@@ -1,0 +1,16 @@
+[05-Sep-2017 10:14:25 UTC] PHP Fatal error:  Interface 'WPSEO_Metabox_Tab' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-form-tab.php on line 9
+[05-Sep-2017 10:14:25 UTC] PHP Fatal error:  Interface 'WPSEO_Metabox_Analysis' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-analysis-readability.php on line 9
+[05-Sep-2017 10:14:25 UTC] PHP Fatal error:  Class 'WPSEO_Meta' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox.php on line 9
+[05-Sep-2017 10:14:25 UTC] PHP Fatal error:  Class 'WPSEO_Metabox_Tab_Section' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-addon-section.php on line 10
+[05-Sep-2017 10:14:25 UTC] PHP Fatal error:  Interface 'WPSEO_Metabox_Analysis' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-analysis-seo.php on line 9
+[05-Sep-2017 10:14:25 UTC] PHP Fatal error:  Interface 'WPSEO_Metabox_Section' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-tab-section.php on line 9
+[05-Sep-2017 10:14:29 UTC] PHP Fatal error:  Interface 'WPSEO_Metabox_Analysis' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-analysis-seo.php on line 9
+[05-Sep-2017 10:14:29 UTC] PHP Fatal error:  Class 'WPSEO_Meta' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox.php on line 9
+[05-Sep-2017 10:14:39 UTC] PHP Fatal error:  Interface 'WPSEO_Metabox_Tab' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-form-tab.php on line 9
+[09-Oct-2017 11:43:09 UTC] PHP Fatal error:  Class 'WPSEO_Meta' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox.php on line 9
+[09-Oct-2017 11:43:10 UTC] PHP Fatal error:  Interface 'WPSEO_Metabox_Section' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-tab-section.php on line 9
+[09-Oct-2017 11:43:10 UTC] PHP Fatal error:  Class 'WPSEO_Metabox_Tab_Section' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-addon-section.php on line 10
+[09-Oct-2017 11:43:10 UTC] PHP Fatal error:  Interface 'WPSEO_Metabox_Analysis' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-analysis-seo.php on line 9
+[09-Oct-2017 11:43:10 UTC] PHP Fatal error:  Interface 'WPSEO_Metabox_Tab' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-add-keyword-tab.php on line 9
+[09-Oct-2017 11:43:10 UTC] PHP Fatal error:  Interface 'WPSEO_Metabox_Tab' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-form-tab.php on line 9
+[09-Oct-2017 11:43:10 UTC] PHP Fatal error:  Interface 'WPSEO_Metabox_Analysis' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-analysis-readability.php on line 9

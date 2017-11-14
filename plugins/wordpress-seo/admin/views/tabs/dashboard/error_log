@@ -1,0 +1,3 @@
+[05-Sep-2017 10:14:24 UTC] PHP Fatal error:  Class 'Yoast_Alerts' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/views/tabs/dashboard/dashboard.php on line 7
+[05-Sep-2017 10:14:28 UTC] PHP Fatal error:  Class 'Yoast_Alerts' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/views/tabs/dashboard/dashboard.php on line 7
+[09-Oct-2017 11:19:24 UTC] PHP Fatal error:  Class 'Yoast_Alerts' not found in /home/joecap1/public_html/wp-content/plugins/wordpress-seo/admin/views/tabs/dashboard/dashboard.php on line 7

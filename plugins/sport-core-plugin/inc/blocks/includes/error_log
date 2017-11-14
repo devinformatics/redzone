@@ -1,0 +1,9 @@
+[06-Sep-2017 08:52:23 UTC] PHP Fatal error:  Call to undefined function _e() in /home/joecap1/public_html/wp-content/plugins/sport-core-plugin/inc/blocks/includes/inc_block_appearance_tab.php on line 2
+[06-Sep-2017 08:52:25 UTC] PHP Fatal error:  Call to undefined function _e() in /home/joecap1/public_html/wp-content/plugins/sport-core-plugin/inc/blocks/includes/inc_block_advanced_tab.php on line 2
+[06-Sep-2017 08:53:52 UTC] PHP Fatal error:  Call to undefined function pb_get_block_id() in /home/joecap1/public_html/wp-content/plugins/sport-core-plugin/inc/blocks/includes/inc_block_output_style.php on line 1
+[09-Oct-2017 11:19:58 UTC] PHP Fatal error:  Call to undefined function pb_get_block_id() in /home/joecap1/public_html/wp-content/plugins/sport-core-plugin/inc/blocks/includes/inc_block_output_style.php on line 1
+[09-Oct-2017 11:19:58 UTC] PHP Fatal error:  Call to undefined function _e() in /home/joecap1/public_html/wp-content/plugins/sport-core-plugin/inc/blocks/includes/inc_block_appearance_tab.php on line 2
+[09-Oct-2017 11:19:58 UTC] PHP Fatal error:  Call to undefined function _e() in /home/joecap1/public_html/wp-content/plugins/sport-core-plugin/inc/blocks/includes/inc_block_advanced_tab.php on line 2
+[09-Oct-2017 11:19:59 UTC] PHP Fatal error:  Call to undefined function _e() in /home/joecap1/public_html/wp-content/plugins/sport-core-plugin/inc/blocks/includes/inc_block_advanced_tab.php on line 2
+[09-Oct-2017 11:19:59 UTC] PHP Fatal error:  Call to undefined function pb_get_block_id() in /home/joecap1/public_html/wp-content/plugins/sport-core-plugin/inc/blocks/includes/inc_block_output_style.php on line 1
+[09-Oct-2017 11:19:59 UTC] PHP Fatal error:  Call to undefined function _e() in /home/joecap1/public_html/wp-content/plugins/sport-core-plugin/inc/blocks/includes/inc_block_appearance_tab.php on line 2

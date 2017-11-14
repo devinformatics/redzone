@@ -1,0 +1,2 @@
+[05-Sep-2017 12:13:24 UTC] PHP Fatal error:  Interface 'Requisite\AutoLoaderInterface' not found in /home/joecap1/public_html/wp-content/plugins/search-and-replace/inc/requisite/src/Requisite/SPLAutoLoader.php on line 10
+[09-Oct-2017 11:21:00 UTC] PHP Fatal error:  Interface 'Requisite\AutoLoaderInterface' not found in /home/joecap1/public_html/wp-content/plugins/search-and-replace/inc/requisite/src/Requisite/SPLAutoLoader.php on line 10

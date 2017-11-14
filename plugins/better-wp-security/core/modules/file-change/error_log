@@ -1,0 +1,9 @@
+[05-Sep-2017 10:16:23 UTC] PHP Fatal error:  Class 'ITSEC_WP_List_Table' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/file-change/class-itsec-file-change-log.php on line 10
+[05-Sep-2017 10:16:24 UTC] PHP Fatal error:  Class 'ITSEC_Module_Settings_Page' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/file-change/settings-page.php on line 3
+[05-Sep-2017 10:16:24 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/file-change/setup.php on line 12
+[05-Sep-2017 10:16:24 UTC] PHP Fatal error:  Class 'ITSEC_Modules' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/file-change/class-itsec-file-change.php on line 29
+[05-Sep-2017 10:16:24 UTC] PHP Fatal error:  Class 'Ithemes_Sync_Verb' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/file-change/class-ithemes-sync-verb-itsec-perform-file-scan.php on line 11
+[05-Sep-2017 10:16:24 UTC] PHP Fatal error:  Class 'ITSEC_Modules' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/file-change/init.php on line 3
+[05-Sep-2017 10:16:24 UTC] PHP Fatal error:  Class 'ITSEC_Validator' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/file-change/validator.php on line 3
+[05-Sep-2017 10:16:24 UTC] PHP Fatal error:  Class 'ITSEC_Settings' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/file-change/settings.php on line 3
+[06-Sep-2017 08:53:44 UTC] PHP Fatal error:  Class 'ITSEC_Modules' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/file-change/admin.php on line 9

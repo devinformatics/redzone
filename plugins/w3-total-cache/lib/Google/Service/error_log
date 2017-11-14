@@ -1,0 +1,4 @@
+[06-Sep-2017 09:29:48 UTC] PHP Fatal error:  Class 'W3TCG_Google_Service' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Service/Drive.php on line 33
+[09-Oct-2017 11:20:32 UTC] PHP Fatal error:  Class 'W3TCG_Google_Service' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Service/Oauth2.php on line 33
+[09-Oct-2017 11:20:32 UTC] PHP Fatal error:  Class 'W3TCG_Google_Exception' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Service/Exception.php on line 4
+[09-Oct-2017 11:20:32 UTC] PHP Fatal error:  Class 'W3TCG_Google_Service' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Service/Drive.php on line 33

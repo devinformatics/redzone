@@ -1,0 +1,2 @@
+[05-Sep-2017 12:13:20 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/lib/icon-fonts/load.php on line 55
+[05-Sep-2017 12:13:20 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/lib/icon-fonts/init.php on line 44

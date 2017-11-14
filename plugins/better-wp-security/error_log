@@ -1,0 +1,2 @@
+[05-Sep-2017 12:13:24 UTC] PHP Fatal error:  Call to undefined function apply_filters() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/better-wp-security.php on line 16
+[05-Sep-2017 12:13:29 UTC] PHP Fatal error:  Call to undefined function apply_filters() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/better-wp-security.php on line 16

@@ -1,0 +1,12 @@
+[05-Sep-2017 12:13:25 UTC] PHP Fatal error:  Class 'ITSEC_WP_List_Table' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/brute-force/class-itsec-brute-force-log.php on line 10
+[05-Sep-2017 12:13:26 UTC] PHP Fatal error:  Class 'ITSEC_Modules' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/brute-force/class-itsec-brute-force.php on line 11
+[06-Sep-2017 08:52:20 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/brute-force/setup.php on line 12
+[06-Sep-2017 08:52:22 UTC] PHP Fatal error:  Class 'ITSEC_Settings' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/brute-force/settings.php on line 3
+[06-Sep-2017 08:52:22 UTC] PHP Fatal error:  Class 'ITSEC_Module_Settings_Page' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/brute-force/settings-page.php on line 3
+[06-Sep-2017 08:52:23 UTC] PHP Fatal error:  Class 'ITSEC_Validator' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/brute-force/validator.php on line 3
+[06-Sep-2017 08:52:23 UTC] PHP Fatal error:  Class 'ITSEC_Modules' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/brute-force/init.php on line 3
+[06-Sep-2017 08:52:29 UTC] PHP Fatal error:  Class 'ITSEC_Module_Settings_Page' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/brute-force/settings-page.php on line 3
+[06-Sep-2017 08:52:30 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/brute-force/setup.php on line 12
+[06-Sep-2017 08:52:30 UTC] PHP Fatal error:  Class 'ITSEC_Validator' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/brute-force/validator.php on line 3
+[06-Sep-2017 08:52:30 UTC] PHP Fatal error:  Class 'ITSEC_Settings' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/brute-force/settings.php on line 3
+[06-Sep-2017 08:52:30 UTC] PHP Fatal error:  Class 'ITSEC_Modules' not found in /home/joecap1/public_html/wp-content/plugins/better-wp-security/core/modules/brute-force/init.php on line 3

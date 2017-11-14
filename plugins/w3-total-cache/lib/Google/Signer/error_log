@@ -1,0 +1,1 @@
+[09-Oct-2017 11:20:32 UTC] PHP Fatal error:  Class 'W3TCG_Google_Signer_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Signer/P12.php on line 26

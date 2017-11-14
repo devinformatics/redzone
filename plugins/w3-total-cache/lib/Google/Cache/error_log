@@ -1,0 +1,16 @@
+[06-Sep-2017 09:04:18 UTC] PHP Fatal error:  Class 'W3TCG_Google_Exception' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Cache/Exception.php on line 19
+[06-Sep-2017 09:04:19 UTC] PHP Fatal error:  Class 'W3TCG_Google_Cache_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Cache/File.php on line 27
+[06-Sep-2017 09:04:19 UTC] PHP Fatal error:  Class 'W3TCG_Google_Cache_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Cache/Apc.php on line 27
+[06-Sep-2017 09:04:22 UTC] PHP Fatal error:  Class 'W3TCG_Google_Cache_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Cache/Memcache.php on line 29
+[06-Sep-2017 09:05:09 UTC] PHP Fatal error:  Class 'W3TCG_Google_Cache_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Cache/Null.php on line 23
+[06-Sep-2017 09:05:18 UTC] PHP Fatal error:  Class 'W3TCG_Google_Cache_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Cache/Null.php on line 23
+[09-Oct-2017 11:20:24 UTC] PHP Fatal error:  Class 'W3TCG_Google_Cache_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Cache/Memcache.php on line 29
+[09-Oct-2017 11:20:24 UTC] PHP Fatal error:  Class 'W3TCG_Google_Cache_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Cache/Apc.php on line 27
+[09-Oct-2017 11:20:24 UTC] PHP Fatal error:  Class 'W3TCG_Google_Exception' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Cache/Exception.php on line 19
+[09-Oct-2017 11:20:24 UTC] PHP Fatal error:  Class 'W3TCG_Google_Cache_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Cache/Null.php on line 23
+[09-Oct-2017 11:20:24 UTC] PHP Fatal error:  Class 'W3TCG_Google_Cache_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Cache/File.php on line 27
+[09-Oct-2017 11:20:26 UTC] PHP Fatal error:  Class 'W3TCG_Google_Cache_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Cache/Null.php on line 23
+[09-Oct-2017 11:20:26 UTC] PHP Fatal error:  Class 'W3TCG_Google_Cache_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Cache/Apc.php on line 27
+[09-Oct-2017 11:20:26 UTC] PHP Fatal error:  Class 'W3TCG_Google_Cache_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Cache/File.php on line 27
+[09-Oct-2017 11:20:26 UTC] PHP Fatal error:  Class 'W3TCG_Google_Exception' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Cache/Exception.php on line 19
+[09-Oct-2017 11:20:26 UTC] PHP Fatal error:  Class 'W3TCG_Google_Cache_Abstract' not found in /home/joecap1/public_html/wp-content/plugins/w3-total-cache/lib/Google/Cache/Memcache.php on line 29
